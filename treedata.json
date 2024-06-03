@@ -3,6 +3,7 @@
  "children": [
   {
    "name": "analytics",
+   "description":"This example is to showcase the use of tooltip to display description on a flowchart point",
    "children": [
     {
      "name": "cluster",
